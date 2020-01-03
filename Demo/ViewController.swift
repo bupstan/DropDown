@@ -241,7 +241,7 @@ class ViewController: UIViewController {
 		// You can also use localizationKeysDataSource instead. Check the docs.
 		chooseDropDown.dataSource = [
 			"Lorem ipsum dolor",
-			"sit amet consectetur",
+			"sit amet consectetur sit amet consectetur sit amet consectetur sit amet consectetur sit amet consectetur sit amet consectetur",
 			"cadipisci en..."
 		]
 		
